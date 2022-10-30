@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 0fade763-994e-42c8-8dad-f8c9b84bd860)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "hierlable" (shape input) (at 77.47 54.61 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 138348ee-e639-421b-842c-ae796d2a02f0)
+  )
+)
